@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "borderlesswindowedfix",
+  "name": "Borderless Windowed fix",
+  "authors": [ "Jameh" ],
+  "description": "",
+  "version": "1.0.0",
+  "NetworkVersion": "1.0.0",
+  "dependencies": {
+    "game": "1.22.0-pre.2"
+  }
+}
